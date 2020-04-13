@@ -2,6 +2,8 @@ As even google and git projects started with sloppy code - it would be a mistake
 What makes the product great - is a continuous team effort. 
 With this in mind please have a look at the simple Mars Rover emulator.  
 
+dotnet core 3.1
+
 On Linux:  
 dotnet test  
 dotnet run --project MarsRoverConsole
